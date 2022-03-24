@@ -1,0 +1,35 @@
+body {
+        margin-left:4em;
+        background-color: antiquewhite;
+        font-size:1.33em;font-family: monospace;
+}
+.MyFloatLeft
+{
+    float:left;
+    margin-left:0em;
+    margin-right:1em;
+}
+.Clear
+{
+   clear:both;  
+}
+#wrapper {
+    margin:0 auto;
+    width:95%;
+  /*  border:solid 1px red;  */
+}
+#pictures {
+    width:95%;
+    margin:0px auto;
+    height:21em;
+   /*   border:solid 1px green;  */
+}
+
+footer {
+    text-align: center;
+    color:darkorange;
+    border-top:2px orange solid;
+    margin-top:1em;
+    width:100%;
+    font-size:0.85em;
+}
