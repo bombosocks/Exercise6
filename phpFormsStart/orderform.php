@@ -10,7 +10,7 @@
 	<div id="wrapper">
 
 	<h1>Eat more Pizza!</h1>
-	<p><img src="assets/img/dogPizza.jpg"></p>
+	<p><img src="assets/img/hotpizza.png"></p>
 	<div id="container">
 		<h2>Order a Delicious Pizza!</h2>
 	
